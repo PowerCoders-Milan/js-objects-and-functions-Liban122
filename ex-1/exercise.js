@@ -7,7 +7,7 @@ function user(){
     var verb = prompt('Enter a verb');
     var adjective = prompt('Enter an adjective');
     var adverb = prompt('Enter an adverb');
-    alert(noun  + ' ' + verb + ' ' + ' ' + adverb + ' '+ adjective)
+    alert(noun  + ' ' + verb + ' ' + ' ' + adjective + ' '+ adverb)
 }
 
 user()
